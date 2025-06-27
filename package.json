@@ -15,8 +15,6 @@
     "express-list-endpoints": "^7.1.1",
     "express-validator": "^6.15.0",
     "jsonwebtoken": "^8.5.1",
-    "msnodesqlv8": "^4.5.0",
-    "mssql": "^8.1.4",
     "multer": "^2.0.1",
     "nodemailer": "^7.0.3",
     "pg": "^8.16.0",
