@@ -51,7 +51,8 @@ app.use('/api/manageadmins', require('./routes/adminRoutes'));
 app.use('/api/users', require('./routes/userRoutes'));
 app.use('/api/videos', require('./routes/videoRoutes'));
 app.use('/api/pricing', require('./routes/pricingRoutes'));
-app.use('/api', require('./routes/dashboardRoutes'));
+app.use('/api', require('./routes/dashboardroutes'));
+
 app.use('/api/totalorders', require('./routes/totalOrderRoutes'));
 
 
